@@ -114,7 +114,6 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
 .envrc
 .venv*
 venv*
@@ -184,3 +183,4 @@ docs/docs/templates
 
 prof
 virtualenv/
+config.bat
